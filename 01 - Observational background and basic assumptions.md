@@ -49,5 +49,4 @@ E1---S----E2
 Figure 1.1
 ```
 
-[^1]:
-Test test test
+[^1]: Test test test
