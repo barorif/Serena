@@ -29,7 +29,7 @@ Astrophysics (the physics of stars) does not lend itself to experimental study, 
 
 The information we can gather from an individual star is quite restricted. The primary characteristic that can be measured is the **apparent brightness**, which is the amount of radiation from the star falling per unit time on unit area of a collector (usually, a telescope). This radiation flux, which we shall denote _I<sub>obs</sub>_, is not, however, an intrinsic property of the observed star, for it depends on the distance of the star form the observer. The stellar property is the **luminosity** _L_, defined as the amount of energy radiated per unit time--the power of the stellar engine. Since _L_ is also the amount of energy crossing, per unit time, a spherical surface area at the distance _d_ of the observer from the star, the measured apparently brightness is
 
-> _I<sub>obs</sub> = L / (4 pi d<sup>2</sup>)_,
+> _I<sub>obs</sub> = <sup>L</sup>/<sub>(4πd<sup>2</sup>)</sub>_,
 
 and _L_ may be inferred from _I<sub>obs</sub>_ if _d_ is known. The luminosity of a star is usually expressed relative to that of the Sun, the **solar luminosity** _L_<sub>☉</sub> = 3.85 × 10<sup>26</sup> J s<sup>-1</sup>. Stellar luminosities range between less than 10<sup>-5</sup> _L_<sub>☉</sub> and over 10<sup>5</sup> _L_<sub>☉</sub>.
 
