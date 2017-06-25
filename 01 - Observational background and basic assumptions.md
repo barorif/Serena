@@ -23,9 +23,6 @@ As to the *birth* of a star, this is a complex process, which presents many prob
 
 We shall therefore start pursuing the evolution of a star from the earliest time when both conditions of the definition have been fulfilled, and we shall stop when at least one condition has ceased to be satisfied, completely and irreversibly. Finally, we shall consider the life cycle of stellar populations and the effect of stellar evolution on the evolution of galaxies within which stars reside. Galaxies are large systems of stars (up to 10<sup>11</sup> or so), which also contain interstellar clouds of gas and dust. Many of the stars in a galaxy are aggregated in cluster, the largest among them containing more than 10<sup>5</sup> stars. The object of reference in stellar physics is, naturally, the Sun, and in galactic physics, the Galaxy to which it belongs, also known as the Milky Way galaxy.[^1]
 
-[^1]:
-Test test test
-
 ## What can we learn from observations?
 
 Astrophysics (the physics of stars) does not lend itself to experimental study, as do the other fields of physical science. We cannot devise and conduct experiments in order to test and validate theories or hypotheses. Validation of a theory is achieved by accumulating observational evidence that supports it and its predictions or inferences. The evidence is derived from events that have occured in the past and are completely beyond our control. The task is rather similar to that of a detective. As a rule of thumb, a theory is accepted as valid (or at least highly probable) if it withstands two radically different and independent observational tests, and of course, as long as no contradictory evidence has been found.
@@ -51,3 +48,6 @@ E1---S----E2
 
 Figure 1.1
 ```
+
+[^1]:
+Test test test
