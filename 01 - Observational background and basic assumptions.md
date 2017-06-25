@@ -21,7 +21,10 @@ In the latter case, the star fades slowly away, while it gradually cools off, ra
 
 As to the *birth* of a star, this is a complex process, which presents many problems that are still under intensive investigation. We shall deal with this phase only briefly, mainly by pointing out the circumstances under which it is expected to occur.
 
-We shall therefore start pursuing the evolution of a star from the earliest time when both conditions of the definition have been fulfilled, and we shall stop when at least one condition has ceased to be satisfied, completely and irreversibly. Finally, we shall consider the life cycle of stellar populations and the effect of stellar evolution on the evolution of galaxies within which stars reside. Galaxies are large systems of stars (up to 10<sup>11</sup> or so), which also contain interstellar clouds of gas and dust. Many of the stars in a galaxy are aggregated in cluster, the largest among them containing more than 10<sup>5</sup> stars. The object of reference in stellar physics is, naturally, the Sun, and in galactic physics, the Galaxy to which it belongs, also known as the Milky Way galaxy.
+We shall therefore start pursuing the evolution of a star from the earliest time when both conditions of the definition have been fulfilled, and we shall stop when at least one condition has ceased to be satisfied, completely and irreversibly. Finally, we shall consider the life cycle of stellar populations and the effect of stellar evolution on the evolution of galaxies within which stars reside. Galaxies are large systems of stars (up to 10<sup>11</sup> or so), which also contain interstellar clouds of gas and dust. Many of the stars in a galaxy are aggregated in cluster, the largest among them containing more than 10<sup>5</sup> stars. The object of reference in stellar physics is, naturally, the Sun, and in galactic physics, the Galaxy to which it belongs, also known as the Milky Way galaxy.[^1]
+
+[^1]:
+Test test test
 
 ## What can we learn from observations?
 
@@ -31,7 +34,7 @@ The information we can gather from an individual star is quite restricted. The p
 
 > _I<sub>obs</sub> = <sup>L</sup>/<sub>(4πd<sup>2</sup>)</sub>_,
 
-and _L_ may be inferred from _I<sub>obs</sub>_ if _d_ is known. The luminosity of a star is usually expressed relative to that of the Sun, the **solar luminosity** _L_<sub>☉</sub> = 3.85 × 10<sup>26</sup> J s<sup>-1</sup>. Stellar luminosities range between less than 10<sup>-5</sup> _L_<sub>☉</sub> and over 10<sup>5</sup> _L_<sub>☉</sub>.
+and _L_ may be inferred from _I<sub>obs</sub>_ if _d_ is known. The luminosity of a star is usually expressed relative to that of the Sun, the **solar luminosity** _L_<sub>☉</sub> = 3.85×10<sup>26</sup> J s<sup>-1</sup>. Stellar luminosities range between less than 10<sup>-5</sup> _L_<sub>☉</sub> and over 10<sup>5</sup> _L_<sub>☉</sub>.
 
 ### Digression on parallax
 
